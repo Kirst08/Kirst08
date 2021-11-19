@@ -1,3 +1,5 @@
+![Welcome to my github profile](https://user-images.githubusercontent.com/86884583/142519268-24b0d823-38f4-4a9d-94e1-a2b595c62ad5.png)
+
 - 👋 Hi, my name is Kirsten
 - 👀 I’m interested on videogames and the front end of websites
 - 🌱 I’m currently learning python, C, Java
