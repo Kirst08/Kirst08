@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Kirsten
-- 👀 I’m interested in videogames and the front end of websites
+- 👀 I’m interested on videogames and the front end of websites
 - 🌱 I’m currently learning python, C, Java
 
 <!---
